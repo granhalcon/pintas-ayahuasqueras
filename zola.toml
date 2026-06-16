@@ -1,4 +1,5 @@
 base_url = "https://circulo.pages.dev/pintas-ayahuasqueras"
+theme = "enso"
 title = "Pintas Ayahuasqueras"
 description = ""
 default_language = "es"
