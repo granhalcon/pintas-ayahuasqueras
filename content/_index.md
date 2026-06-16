@@ -2,4 +2,4 @@
 title = "Pintas Ayahuasqueras"
 +++
 
-> Aún estoy bajando la medicina.
+<p class="construction-message">Aún estoy bajando la medicina.</p>
